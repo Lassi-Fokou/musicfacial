@@ -41,7 +41,7 @@ This project is a web application built using Django that uses facial detection 
 
 *bash*
 
-- git clone https://github.com/ProKelly/musicfacial.git
+- git clone https://github.com/Lassi-Fokou/musicfacial.git
 - cd musicfacial 
 
 2. Create a virtual environment and activate it:
